@@ -1,18 +1,11 @@
-## Getting Started
+# Projetos Java de criação de um sistema bancário com OOP
+Projetos realizados com Java puro para o bootcamp de java da DIO.me, revisando conceitos basicos da linguagem para fins de treinamento e domínio, principalmente de orientação a objetos
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+## Tecnologias usadas:
+* Java
+* Conceitos de OOP
+## Feito por:
+### Danilo Ribeiro 
+### Linkedin: https://www.linkedin.com/in/danilo-ribeiro-catroli-da-silva/
+### Email: danilo051007@gmail.com
 
-## Folder Structure
-
-The workspace contains two folders by default, where:
-
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
-
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
